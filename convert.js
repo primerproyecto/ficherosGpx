@@ -1,5 +1,7 @@
 const togeojson = require("@mapbox/togeojson");
-const DomParser = require("xmldom").DOMParser; // node doesn't have xml parsing or a dom.
+const DomParser = require("xmldom").DOMParser; 
+
+// node doesn't have xml parsing or a dom.
 const fs = require("fs");
 
 const config = {};
