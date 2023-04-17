@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG153158</name>
+  <trkseg>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>52.870</ele>
+    <time>2009-12-15T14:31:58Z</time>
+   </trkpt>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>52.868</ele>
+    <time>2009-12-15T14:31:59Z</time>
+   </trkpt>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>52.852</ele>
+    <time>2009-12-15T14:32:23Z</time>
+   </trkpt>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>49.570</ele>
+    <time>2009-12-15T14:32:57Z</time>
+   </trkpt>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>52.067</ele>
+    <time>2009-12-15T14:32:58Z</time>
+   </trkpt>
+   <trkpt lat="43.551457" lon="-5.929052">
+    <ele>55.106</ele>
+    <time>2009-12-15T14:33:46Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

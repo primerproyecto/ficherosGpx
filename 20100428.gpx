@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG082545</name>
+  <trkseg>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-21.419</ele>
+    <time>2010-04-28T12:25:45Z</time>
+   </trkpt>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-20.964</ele>
+    <time>2010-04-28T12:26:50Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG082716</name>
+  <trkseg>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-20.219</ele>
+    <time>2010-04-28T12:27:16Z</time>
+   </trkpt>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-20.219</ele>
+    <time>2010-04-28T12:27:17Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG082916</name>
+  <trkseg>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-20.097</ele>
+    <time>2010-04-28T12:29:16Z</time>
+   </trkpt>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>-21.794</ele>
+    <time>2010-04-28T12:50:15Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG164318</name>
+  <trkseg>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>2.798</ele>
+    <time>2010-04-28T20:43:18Z</time>
+   </trkpt>
+   <trkpt lat="-24.169189" lon="-70.307176">
+    <ele>5.958</ele>
+    <time>2010-04-28T20:44:23Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG164505</name>
+  <trkseg>
+   <trkpt lat="-23.649667" lon="-70.394966">
+    <ele>7.708</ele>
+    <time>2010-04-28T20:45:05Z</time>
+   </trkpt>
+   <trkpt lat="-23.649635" lon="-70.395059">
+    <ele>10.762</ele>
+    <time>2010-04-28T20:45:20Z</time>
+   </trkpt>
+   <trkpt lat="-23.649629" lon="-70.395068">
+    <ele>12.684</ele>
+    <time>2010-04-28T20:45:24Z</time>
+   </trkpt>
+   <trkpt lat="-23.649631" lon="-70.395074">
+    <ele>16.113</ele>
+    <time>2010-04-28T20:45:30Z</time>
+   </trkpt>
+   <trkpt lat="-23.649631" lon="-70.395074">
+    <ele>19.209</ele>
+    <time>2010-04-28T20:45:35Z</time>
+   </trkpt>
+   <trkpt lat="-23.649630" lon="-70.395076">
+    <ele>23.446</ele>
+    <time>2010-04-28T20:45:46Z</time>
+   </trkpt>
+   <trkpt lat="-23.649631" lon="-70.395076">
+    <ele>25.581</ele>
+    <time>2010-04-28T20:45:53Z</time>
+   </trkpt>
+   <trkpt lat="-23.649631" lon="-70.395075">
+    <ele>28.594</ele>
+    <time>2010-04-28T20:46:14Z</time>
+   </trkpt>
+   <trkpt lat="-23.649631" lon="-70.395074">
+    <ele>29.883</ele>
+    <time>2010-04-28T20:46:16Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG165121</name>
+  <trkseg>
+   <trkpt lat="-23.649633" lon="-70.395084">
+    <ele>27.382</ele>
+    <time>2010-04-28T20:51:21Z</time>
+   </trkpt>
+   <trkpt lat="-23.649633" lon="-70.395084">
+    <ele>26.262</ele>
+    <time>2010-04-28T20:52:50Z</time>
+   </trkpt>
+   <trkpt lat="-23.649633" lon="-70.395084">
+    <ele>27.834</ele>
+    <time>2010-04-28T20:53:15Z</time>
+   </trkpt>
+   <trkpt lat="-23.649633" lon="-70.395084">
+    <ele>26.214</ele>
+    <time>2010-04-28T20:53:17Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG165542</name>
+  <trkseg>
+   <trkpt lat="-23.649501" lon="-70.394940">
+    <ele>27.182</ele>
+    <time>2010-04-28T20:55:42Z</time>
+   </trkpt>
+   <trkpt lat="-23.649746" lon="-70.395079">
+    <ele>27.470</ele>
+    <time>2010-04-28T20:55:59Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

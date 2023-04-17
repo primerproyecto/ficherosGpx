@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG094106</name>
+  <trkseg>
+   <trkpt lat="-29.915723" lon="-71.248311">
+    <ele>11.478</ele>
+    <time>2010-04-12T00:41:06Z</time>
+   </trkpt>
+   <trkpt lat="-29.915723" lon="-71.248311">
+    <ele>10.942</ele>
+    <time>2010-04-12T00:41:53Z</time>
+   </trkpt>
+   <trkpt lat="-29.915723" lon="-71.248311">
+    <ele>10.585</ele>
+    <time>2010-04-12T00:42:23Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG094357</name>
+  <trkseg>
+   <trkpt lat="-29.900396" lon="-71.252070">
+    <ele>11.203</ele>
+    <time>2010-04-12T00:43:57Z</time>
+   </trkpt>
+   <trkpt lat="-29.900248" lon="-71.252019">
+    <ele>10.781</ele>
+    <time>2010-04-12T00:44:22Z</time>
+   </trkpt>
+   <trkpt lat="-29.900268" lon="-71.252025">
+    <ele>13.817</ele>
+    <time>2010-04-12T00:44:34Z</time>
+   </trkpt>
+   <trkpt lat="-29.900272" lon="-71.252033">
+    <ele>17.666</ele>
+    <time>2010-04-12T00:44:38Z</time>
+   </trkpt>
+   <trkpt lat="-29.900269" lon="-71.252041">
+    <ele>21.342</ele>
+    <time>2010-04-12T00:44:42Z</time>
+   </trkpt>
+   <trkpt lat="-29.900271" lon="-71.252045">
+    <ele>24.926</ele>
+    <time>2010-04-12T00:44:47Z</time>
+   </trkpt>
+   <trkpt lat="-29.900278" lon="-71.252046">
+    <ele>28.369</ele>
+    <time>2010-04-12T00:44:52Z</time>
+   </trkpt>
+   <trkpt lat="-29.900284" lon="-71.252036">
+    <ele>31.754</ele>
+    <time>2010-04-12T00:44:59Z</time>
+   </trkpt>
+   <trkpt lat="-29.900290" lon="-71.252040">
+    <ele>35.239</ele>
+    <time>2010-04-12T00:45:07Z</time>
+   </trkpt>
+   <trkpt lat="-29.900272" lon="-71.252048">
+    <ele>38.300</ele>
+    <time>2010-04-12T00:45:19Z</time>
+   </trkpt>
+   <trkpt lat="-29.900364" lon="-71.252039">
+    <ele>41.352</ele>
+    <time>2010-04-12T00:45:39Z</time>
+   </trkpt>
+   <trkpt lat="-29.900455" lon="-71.252024">
+    <ele>41.511</ele>
+    <time>2010-04-12T00:45:57Z</time>
+   </trkpt>
+   <trkpt lat="-29.900491" lon="-71.252054">
+    <ele>41.191</ele>
+    <time>2010-04-12T00:47:27Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

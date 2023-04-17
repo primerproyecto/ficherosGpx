@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG221810</name>
+  <trkseg>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>1.342</ele>
+    <time>2010-08-25T03:18:10Z</time>
+   </trkpt>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>3.097</ele>
+    <time>2010-08-25T03:23:01Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG222302</name>
+  <trkseg>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>3.097</ele>
+    <time>2010-08-25T03:23:02Z</time>
+   </trkpt>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>1.448</ele>
+    <time>2010-08-25T03:25:09Z</time>
+   </trkpt>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>4.212</ele>
+    <time>2010-08-25T03:25:20Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG222535</name>
+  <trkseg>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>1.770</ele>
+    <time>2010-08-25T03:25:35Z</time>
+   </trkpt>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>1.971</ele>
+    <time>2010-08-25T03:25:36Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG222940</name>
+  <trkseg>
+   <trkpt lat="-2.191260" lon="-79.889105">
+    <ele>1.852</ele>
+    <time>2010-08-25T03:29:40Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

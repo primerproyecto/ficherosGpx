@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG004940</name>
+  <trkseg>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3359.736</ele>
+    <time>2010-06-23T04:49:40Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3361.916</ele>
+    <time>2010-06-23T04:49:46Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3360.608</ele>
+    <time>2010-06-23T04:49:48Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3361.974</ele>
+    <time>2010-06-23T04:49:52Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3360.526</ele>
+    <time>2010-06-23T04:49:54Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3362.333</ele>
+    <time>2010-06-23T04:50:09Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3360.433</ele>
+    <time>2010-06-23T04:50:11Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG011517</name>
+  <trkseg>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3363.514</ele>
+    <time>2010-06-23T05:15:17Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3363.514</ele>
+    <time>2010-06-23T05:15:18Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3365.982</ele>
+    <time>2010-06-23T05:16:12Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3364.283</ele>
+    <time>2010-06-23T05:16:14Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG121102</name>
+  <trkseg>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3323.565</ele>
+    <time>2010-06-23T16:11:02Z</time>
+   </trkpt>
+   <trkpt lat="-13.515304" lon="-71.980102">
+    <ele>3323.565</ele>
+    <time>2010-06-23T16:11:03Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
